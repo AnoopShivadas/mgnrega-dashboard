@@ -1,0 +1,18 @@
+{
+  "districts": [
+    "Mumbai",
+    "Pune",
+    "Nagpur",
+    "Nashik",
+    "Aurangabad",
+    "Solapur",
+    "Amravati",
+    "Kolhapur",
+    "Sangli",
+    "Jalgaon",
+    "Ahmednagar",
+    "Satara"
+  ],
+  "lastUpdated": "2025-01-15",
+  "note": "Fallback data for offline mode"
+}
