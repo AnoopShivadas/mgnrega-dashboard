@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mgnrega-dashboard-zvdy.onrender.com/sitemap.xml
